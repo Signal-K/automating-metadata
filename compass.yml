@@ -1,0 +1,16 @@
+name: automating-metadata
+id: ari:cloud:compass:6c5f0aad-3609-46b8-ab18-2bbe3c8d954a:component/877cb673-9bea-4a28-ab02-5c00556706db/407392f8-6c60-4bcb-b0b0-397a4ccf0a3d
+description: Extract components of research projects or DeSci Nodes for use in Star Sailors protocols. Starting point for developing a package/module system for DSL.
+configVersion: 1
+typeId: LIBRARY
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Signal-K/automating-metadata
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
